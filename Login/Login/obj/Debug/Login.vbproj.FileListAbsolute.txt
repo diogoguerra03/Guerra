@@ -1,0 +1,13 @@
+C:\Users\Utilizador\Desktop\Escola\11º\Psi\Desenvolvendo\Ficha 2\Login\Login\obj\Debug\Login.vbprojAssemblyReference.cache
+C:\Users\Utilizador\Desktop\Escola\11º\Psi\Desenvolvendo\Ficha 2\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\Utilizador\Desktop\Escola\11º\Psi\Desenvolvendo\Ficha 2\Login\Login\obj\Debug\Login.Login.resources
+C:\Users\Utilizador\Desktop\Escola\11º\Psi\Desenvolvendo\Ficha 2\Login\Login\obj\Debug\Login.Resources.resources
+C:\Users\Utilizador\Desktop\Escola\11º\Psi\Desenvolvendo\Ficha 2\Login\Login\obj\Debug\Login.vbproj.GenerateResource.cache
+C:\Users\Utilizador\Desktop\Escola\11º\Psi\Desenvolvendo\Ficha 2\Login\Login\bin\Debug\Login.exe.config
+C:\Users\Utilizador\Desktop\Escola\11º\Psi\Desenvolvendo\Ficha 2\Login\Login\bin\Debug\Login.exe
+C:\Users\Utilizador\Desktop\Escola\11º\Psi\Desenvolvendo\Ficha 2\Login\Login\bin\Debug\Login.pdb
+C:\Users\Utilizador\Desktop\Escola\11º\Psi\Desenvolvendo\Ficha 2\Login\Login\bin\Debug\Login.xml
+C:\Users\Utilizador\Desktop\Escola\11º\Psi\Desenvolvendo\Ficha 2\Login\Login\obj\Debug\Login.exe
+C:\Users\Utilizador\Desktop\Escola\11º\Psi\Desenvolvendo\Ficha 2\Login\Login\obj\Debug\Login.xml
+C:\Users\Utilizador\Desktop\Escola\11º\Psi\Desenvolvendo\Ficha 2\Login\Login\obj\Debug\Login.pdb
+C:\Users\Utilizador\Desktop\Escola\11º\Psi\Desenvolvendo\Ficha 2\Login\Login\obj\Debug\Login.Loading.resources
